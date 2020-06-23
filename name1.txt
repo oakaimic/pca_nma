@@ -1,0 +1,13 @@
+name
+/Users/feifei/Downloads/pca_nma/scrapyCODNAS/aaa/split_chain/1LNW_A.pdb
+/Users/feifei/Downloads/pca_nma/scrapyCODNAS/aaa/split_chain/1LNW_B.pdb
+/Users/feifei/Downloads/pca_nma/scrapyCODNAS/aaa/split_chain/1LNW_C.pdb
+/Users/feifei/Downloads/pca_nma/scrapyCODNAS/aaa/split_chain/1LNW_D.pdb
+/Users/feifei/Downloads/pca_nma/scrapyCODNAS/aaa/split_chain/1LNW_E.pdb
+/Users/feifei/Downloads/pca_nma/scrapyCODNAS/aaa/split_chain/1LNW_F.pdb
+/Users/feifei/Downloads/pca_nma/scrapyCODNAS/aaa/split_chain/1LNW_G.pdb
+/Users/feifei/Downloads/pca_nma/scrapyCODNAS/aaa/split_chain/1LNW_H.pdb
+/Users/feifei/Downloads/pca_nma/scrapyCODNAS/aaa/split_chain/3ECH_A.pdb
+/Users/feifei/Downloads/pca_nma/scrapyCODNAS/aaa/split_chain/3ECH_B.pdb
+/Users/feifei/Downloads/pca_nma/scrapyCODNAS/aaa/split_chain/3MEX_A.pdb
+/Users/feifei/Downloads/pca_nma/scrapyCODNAS/aaa/split_chain/3MEX_B.pdb
